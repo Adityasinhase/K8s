@@ -93,7 +93,7 @@ nodes:
   - role: worker
     image: kindest/node:v1.33.1
 
-    - role: worker
+  - role: worker
     image: kindest/node:v1.33.1
 
   - role: worker
